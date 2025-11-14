@@ -43,7 +43,6 @@ Kutilgan natija:
 +---------+
 """
 
-
 class SQL:
 
     def prefer(self):
